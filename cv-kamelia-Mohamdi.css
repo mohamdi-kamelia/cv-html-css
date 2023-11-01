@@ -1,0 +1,76 @@
+body {
+      font-family:Arial, sans-serif;
+      background-color:#f5f5f5;
+  }
+  
+    .section-border {
+      border: 1px solid blue; 
+      border-radius: 40px; 
+      padding: 40px;
+      margin-bottom: 10px;
+  }
+
+  h1 {
+    color: blue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+
+
+  }
+  h1 {
+    text-decoration: underline;
+    text-align: center;
+    font-family: cursive;
+    font-style: oblique;
+  }
+  h2 {
+    text-decoration:wavy;
+    font-style: initial;
+    text-align: center;
+    color:blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  
+footer {
+  background-color: rgb(149, 199, 232);
+  color: rgb(0, 1, 2);
+  padding: 10px;
+  text-align:center;
+  border: 1px solid blue; 
+  border-radius: 40px; 
+  padding: 40px;
+  margin-bottom: 10px;
+}
+ 
+.skills img {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  
+}
+.profile-photo{
+  width: 200px;
+  height: auto;
+  margin-right: 10px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+.information-personnelles{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+  background-image: url('PHOTO\ CV.jpg'); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+  background-position: center center; 
+}
+
+
+
+
+
+
+
